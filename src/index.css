@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+/* Custom premium styles */
+body {
+  @apply bg-slate-900 text-white font-sans;
+}
